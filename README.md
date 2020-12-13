@@ -74,6 +74,8 @@ B.	설계 작품의 창의성 (200자 이내로 요약)
 
 
 -----------------RUN---------------------
-Aeye_5x5-Copy2.ipynb is main project.
+Aeye_5x5-Copy2.ipynb is main project
+
 KHMtest2_5x5.csv is Dataset which is getted from 3D Printer
+
 KHMtest(3D Printer GCode).Gcode is designed to run 3D Printer
