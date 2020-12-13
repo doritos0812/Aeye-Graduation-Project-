@@ -71,3 +71,9 @@ B.	설계 작품의 창의성 (200자 이내로 요약)
 1) Arthropod Eye Sensor와 인식 Sensor와의 결과값을 도출해 내는 Coding
 2) Aduino를 통해 excel chart를 만들어 실제 빛 위치를 측정해내는 Coding
 3) 오차가 발생하는 부분을 DNN을 통한 Deep Learning기술로 실제 빛 위치의 오차를 줄이고 정확도 향상
+
+
+-----------------RUN---------------------
+Aeye_5x5-Copy2.ipynb is main project.
+KHMtest2_5x5.csv is Dataset which is getted from 3D Printer
+KHMtest(3D Printer GCode).Gcode is designed to run 3D Printer
